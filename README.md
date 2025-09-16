@@ -16,6 +16,8 @@ This is a desktop application built with Python and Tkinter that provides a user
 * **Session Persistence:** The application automatically saves the contents of all text boxes and your configuration when you close it, so you can pick up where you left off.
 * **Line Numbers:** Both input and output boxes feature line numbers for easier tracking and reference.
 
+![PAC Screenshot](./ALCT.jpg)
+
 ## How to Use
 
 ### Running the script directly
