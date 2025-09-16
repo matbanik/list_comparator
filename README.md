@@ -1,8 +1,3 @@
-# This file stores the markdown content for the project's README.
-# You can use this string in other parts of your project, for example,
-# to display it in a help window or to generate a README.md file.
-
-readme_markdown = """
 # Advanced List Comparison Tool
 
 This is a desktop application built with Python and Tkinter that provides a user-friendly interface for comparing two lists of text. It's designed to help you quickly identify differences and similarities between lists, making it useful for data cleaning, validation, and analysis.
