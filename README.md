@@ -37,14 +37,4 @@ The `build.bat` file is a convenient script for Windows users to package the app
 3.  **Execution:** Simply double-click the `build.bat` file to run it.
 4.  **Process:** A command prompt window will appear. The script will first check if the `pyinstaller` package is installed and, if not, it will attempt to install it for you. It will then proceed to build the executable.
 5.  **Find the Executable:** Once the script is finished, you will find a new folder named `dist` in the directory. Your application, `ListComparator.exe`, will be inside this `dist` folder. You can then run this file on any Windows computer without needing to install Python.
-"""
 
-if __name__ == '__main__':
-    # You can, for example, write this content to a README.md file
-    try:
-        with open('README.md', 'w') as f:
-            f.write(readme_markdown)
-        print("Successfully created README.md")
-    except IOError as e:
-        print(f"Error writing to file: {e}")
-```
